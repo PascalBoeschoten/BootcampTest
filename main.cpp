@@ -3,6 +3,6 @@ using namespace std;
 
 int main() 
 {
-    cout << "Hello, Bootcamp!";
+    cout << "Git is een leuke programmeertaal!";
     return 0;
 }
